@@ -1,0 +1,6 @@
+command:
+	gh auth login
+
+follow the insructions on the terminal
+make sure u have installed gh
+

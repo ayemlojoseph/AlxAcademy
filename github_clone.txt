@@ -1,0 +1,18 @@
+First is to initiate a git repo
+
+command:
+        git init
+this will make a folder a git repo
+
+secondly go to github and create a repo
+
+clone the repo
+command:        
+        git clone repoName
+the repo name can be copied from the github like git@github.com:ayemlojoseph/AlxAcademy.git
+
+
+Addding a single file to the 
+git add example.txt
+$ git commit -m "Initial commit"
+$ git push origin main
