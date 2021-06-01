@@ -12,7 +12,22 @@ command:
 the repo name can be copied from the github like git@github.com:ayemlojoseph/AlxAcademy.git
 
 
-Addding a single file to the 
-git add example.txt
-$ git commit -m "Initial commit"
-$ git push origin main
+Addding a single file to the git repo >>>>>>>
+command:
+        git add example.txt
+
+adding all files to the git repo>>>>>>>>>
+command:
+        git add .
+
+commiting files>>>>>>>>>
+command:
+        git commit -m "Initial commit"
+
+pushing to the repo>>>>>>>>>>>>
+command:
+        git push origin main
+
+checking status of files
+command:
+        git status
